@@ -1,0 +1,5 @@
+{
+  "name": "Naver Blog Auto-Liker Simulator",
+  "description": "A web application that simulates the process of automatically liking new posts from neighbors on Naver Blog, providing a visual guide and log of the automated actions.",
+  "requestFramePermissions": []
+}
